@@ -1,2 +1,2 @@
 # Raj
- I am a front End web development learner, seeking to built innovative projects with the community
+ I am a Front End Web development learner, seeking to built innovative projects with the community
